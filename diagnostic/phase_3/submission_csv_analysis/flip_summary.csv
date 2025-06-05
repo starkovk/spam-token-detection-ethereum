@@ -1,0 +1,5 @@
+feature,total_addresses,agreement_pct,flips_total,flips_0_to_1,flips_1_to_0,net_spam_delta
+temp_days_active(-1% accuracy from Phase 2),1116,99.55,5,2,3,-1
+swap_ratio,1116,99.82,2,1,1,0
+nft_involvement,1116,99.73,3,1,2,-1
+flash_flag,1116,99.73,3,1,2,-1
