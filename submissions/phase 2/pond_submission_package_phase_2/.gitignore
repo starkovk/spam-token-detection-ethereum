@@ -1,0 +1,7 @@
+# Ignore raw data
+data/raw/
+
+# Ignore other possible temporary files
+*.pyc
+__pycache__/
+.ipynb_checkpoints/
