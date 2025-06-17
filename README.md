@@ -112,4 +112,4 @@ python src/features/02_basic_token_transfer_features.py
 python src/features/03_basic_nft_transfer_features.py
 python src/features/04_unique_wallets_interacted.py
 python src/features/05_token_transfer_entropy.py
-python src/features/06_all_features_merged_phase_3.py
+python src/features/06_all_features_merged_phase_3.py# manual test
