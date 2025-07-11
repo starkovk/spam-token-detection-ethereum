@@ -54,4 +54,4 @@ feat = (
 )
 
 feat.to_parquet(OUT, index=False)
-print(f"  08_burstiness_score.parquet saved → {OUT} • shape={feat.shape}")
+print(f"  08_burstiness_score.parquet saved → {OUT} • shape={feat.shape}")# Daily commit on 11 июл 2025 г. 13:19:08
