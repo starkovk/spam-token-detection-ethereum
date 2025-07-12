@@ -27,4 +27,4 @@ merged = (
 )
 
 merged.to_parquet(OUT, index=False)
-print(f" 09_all_features_merged_phase_4.parquet saved → {OUT} • shape={merged.shape}")
+print(f" 09_all_features_merged_phase_4.parquet saved → {OUT} • shape={merged.shape}")# Daily commit on 12 июл 2025 г. 12:52:18
