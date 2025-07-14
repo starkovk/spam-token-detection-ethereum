@@ -47,4 +47,4 @@ def main():
     print(f" Predictions saved to: {OUTPUT_PATH} with shape {result.shape}")
 
 if __name__ == "__main__":
-    main()
+    main()# Daily commit on 14 июл 2025 г. 12:34:21
