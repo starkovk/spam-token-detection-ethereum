@@ -16,3 +16,4 @@ X=X[cols]
 pred=(model.predict_proba(X)[:,1]>=0.5).astype(int)
 pd.DataFrame({"ADDRESS":df.token_address,"PRED":pred}).to_parquet(OUT,index=False)
 print("test preds saved:",OUT)
+# Daily commit on 16 июл 2025 г. 13:11:33
